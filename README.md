@@ -1,40 +1,55 @@
-[![Built with Astro](https://astro.badg.es/v1/built-with-astro.svg)](https://astro.build)
+# Homepage Privater Automarkt Radolfzell
 
-# Astro Landing Page
+### Tech stack
 
-> An Astro + Tailwind CSS example/template for landing pages.
+[![Astro](https://img.shields.io/badge/Astro-333333.svg?logo=astro)](https://astro.build)
+[![TypeScript](https://img.shields.io/badge/TypeScript-333333.svg?logo=typescript)](http://www.typescriptlang.org/)
+[![Prettier](https://img.shields.io/badge/Prettier-333333.svg?logo=prettier)](https://prettier.io)
+[![EditorConfig](https://img.shields.io/badge/EditorConfig-333333.svg?logo=editorconfig)](https://editorconfig.org)
+[![ESLint](https://img.shields.io/badge/ESLint-3A33D1?logo=eslint)](https://eslint.org)
+[![Stylelint](https://img.shields.io/badge/Stylelint-222222?logo=Stylelint)](https://stylelint.io)
 
-![Screenshots of Astro Landing Page](screenshots.jpg)
+### Status
 
-## Features
+[![Deploy to Github Pages](https://img.shields.io/github/workflow/status/michzuerch/PrivaterAutomarkt5/DeployGhPages)](https://michzuerch.github.io/PrivaterAutomarkt5)
+[![W3C Validation Github Pages](https://img.shields.io/w3c-validation/default?targetUrl=https%3A%2F%2Fmichzuerch.github.io%2FPrivaterAutomarkt5)](https://michzuerch.github.io/PrivaterAutomarkt5)
+[![Website up check](https://img.shields.io/website?url=https%3A%2F%2Fmichzuerch.github.io%2FPrivaterAutomarkt5)](https://michzuerch.github.io/PrivaterAutomarkt5)
+[![Security policy](https://img.shields.io/security-headers?url=https%3A%2F%2Fmichzuerch.github.io%2FPrivaterAutomarkt5)](https://michzuerch.github.io/PrivaterAutomarkt5)
 
-- 💨 Tailwind CSS for styling
-- 🎨 Themeable
-  - CSS variables are defined in `src/styles/theme.css` and mapped to Tailwind classes (`tailwind.config.cjs`)
-- 🌙 Dark mode
-- 📱 Responsive (layout, images, typography)
-- ♿ Accessible (as measured by https://web.dev/measure/)
-- 🔎 SEO-enabled (as measured by https://web.dev/measure/)
-- 🔗 Open Graph tags for social media sharing
-- 💅 [Astro Prettier](https://github.com/withastro/prettier-plugin-astro) setup
+### Version
 
-## Commands
+[![Version package.json](https://img.shields.io/github/package-json/v/michzuerch/PrivaterAutomarkt5)](https://michzuerch.github.io/PrivaterAutomarkt5)
+[![License](https://img.shields.io/github/license/michzuerch/PrivaterAutomarkt5)](https://michzuerch.github.io/PrivaterAutomarkt5)
 
-| Command                | Action                                             |
-| :--------------------- | :------------------------------------------------- |
-| `npm install`          | Install dependencies                               |
-| `npm run dev`          | Start local dev server at `localhost:3000`         |
-| `npm run build`        | Build your production site to `./dist/`            |
-| `npm run preview`      | Preview your build locally, before deploying       |
-| `npm run astro ...`    | Run CLI commands like `astro add`, `astro preview` |
-| `npm run astro --help` | Get help using the Astro CLI                       |
-| `npm run format`       | Format code with [Prettier](https://prettier.io/)  |
-| `npm run clean`        | Remove `node_modules` and build output             |
+### Github
 
-## Credits
+[![Github last commit](https://img.shields.io/github/last-commit/michzuerch/PrivaterAutomarkt5)](https://michzuerch.github.io/PrivaterAutomarkt5)
+[![Commits per month](https://img.shields.io/github/commit-activity/m/michzuerch/PrivaterAutomarkt5)](https://michzuerch.github.io/PrivaterAutomarkt5)
+[![Releases on Github](https://img.shields.io/github/v/release/michzuerch/PrivaterAutomarkt5)](https://michzuerch.github.io/PrivaterAutomarkt5)
+[![Size on Github](https://img.shields.io/github/languages/code-size/michzuerch/PrivaterAutomarkt5)](https://michzuerch.github.io/PrivaterAutomarkt5)
+[![Files on Github](https://img.shields.io/github/directory-file-count/michzuerch/PrivaterAutomarkt5)](https://michzuerch.github.io/PrivaterAutomarkt5)
+[![Issues on Github](https://img.shields.io/github/issues/michzuerch/PrivaterAutomarkt5)](https://michzuerch.github.io/PrivaterAutomarkt5)
+[![Stars on Github](https://img.shields.io/github/stars/michzuerch/PrivaterAutomarkt5?style=social)](https://michzuerch.github.io/PrivaterAutomarkt5)
 
-- astronaut image
-  - source: https://github.com/withastro/astro-og-image; note: this repo is not available anymore
-- moon image
-  - source: https://unsplash.com/@nasa
-- other than that, a lot of material (showcase data, copy) was taken from official Astro sources, in particular https://astro.build/blog/introducing-astro/ and https://github.com/withastro/astro.build
+```
+npm run build
+```
+
+## Development environments
+
+### Stackblitz
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/michzuerch/PrivaterAutomarkt5/tree/development)
+
+### Netlify
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/michzuerch/PrivaterAutomarkt5)
+
+(Repository already exists for michzuerch)
+
+Get the source on [Github](https://github.com/michzuerch/PrivaterAutomarkt5).
+
+47.74315477543156, 8.954879998216272
+
+47.74297128003603, 8.954879380531835
+https://www.google.com/maps/search/?api=1&query=47.74297128003603%2C8.954879380531835
