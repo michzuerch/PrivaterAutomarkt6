@@ -1,7 +1,7 @@
 {
   "name": "@michzuerch/privaterautomarkt6",
   "type": "module",
-  "description": "homagepage for billig-cars.de using Astro + Tailwind CSS.",
+  "description": "homagepage for billig-cars.de using Astro and Tailwind CSS.",
   "version": "0.0.1",
   "private": true,
   "homepage": "https://github.com/michzuerch/PrivaterAutomarkt5#readme",
