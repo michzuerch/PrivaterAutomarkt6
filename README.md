@@ -1,6 +1,6 @@
 # Homepage Privater Automarkt Radolfzell
 
-### Tech stack
+## Tech stack
 
 [![Astro](https://img.shields.io/badge/Astro-333333.svg?logo=astro)](https://astro.build)
 [![TypeScript](https://img.shields.io/badge/TypeScript-333333.svg?logo=typescript)](http://www.typescriptlang.org/)
